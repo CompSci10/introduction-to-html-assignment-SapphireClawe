@@ -1,3 +1,5 @@
+Sarah Flesher
+
 # introduction-to-html-assignment
 
 ## What is HTML?
